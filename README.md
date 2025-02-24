@@ -124,6 +124,6 @@
 
 
 # Total Days
-**Worst Case Scenario:** X_worst = 21 Days
-**Optimal Case Scenario:** X_opt = 16 Days
+**Worst Case Scenario:** X_worst = 21 Days \
+**Optimal Case Scenario:** X_opt = 16 Days \
 **Best Case Scenario:** x_best; X_opt  <= x_best <= X_worst
