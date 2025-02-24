@@ -1,5 +1,5 @@
 # Day One
-- [] Chapter One (1.1. + 1.2.)
+- [x] Chapter One (1.1. + 1.2.)
 
 
 
