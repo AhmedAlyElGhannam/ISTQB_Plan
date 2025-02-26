@@ -5,7 +5,7 @@
 - [x] Chapter One (1.3. + 1.5.)
 
 # Day Three 
-- [ ] Chapter One (1.4.)
+- [x] Chapter One (1.4.)
 
 # Chapter One (3-4 Days)
 20% --- 8 Questions --- P14-P22
