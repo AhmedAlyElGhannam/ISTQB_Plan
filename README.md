@@ -8,7 +8,7 @@
 - [x] Chapter One (1.4.) [26/2/2025]
 
 # Day Four
-- [ ] Questions on Chapter One 
+- [x] Questions on Chapter One [27/2/2025]
 
 # Chapter One (3-4 Days)
 20% --- 8 Questions --- P14-P22
