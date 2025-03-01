@@ -16,6 +16,9 @@
 # Day Six
 - [x] Chapter Two (2.1.5. + 2.1.6. + 2.3.) [1/3/2025]
 
+# Day Seven
+- [ ] Chapter Two (2.2.1 + 2.2.2. + 2.2.3.) [2/3/2025]
+
 # Chapter One (3-4 Days)
 20% --- 8 Questions --- P14-P22
 
