@@ -19,6 +19,12 @@
 # Day Seven
 - [x] Chapter Two (2.2.1 + 2.2.2. + 2.2.3. + Questions on Chapter Two) [2/3/2025]
 
+# Day Eight
+- [ ] Chapter Three (3.1.) [3/3/2025]
+
+# Day Nine
+- [ ] Chapter Three (3.2. + Questions on Chapter Three + Quiz) [4/3/2025]
+
 # Chapter One (3-4 Days)
 20% --- 8 Questions --- P14-P22
 
