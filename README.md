@@ -23,7 +23,11 @@
 - [x] Chapter Three (3.1. + 3.2.1) [3/3/2025]
 
 # Day Nine
-- [ ] Chapter Three (3.2.2 &rarr; end of ch + Questions on Chapter Three + Quiz) [9/3/2025]
+- [x] Chapter Three (3.2.2 &rarr; end of ch + Questions on Chapter Three + Quiz) [9/3/2025]
+
+# Day Ten 
+- [ ] Chapter Four (Read CH4 From Syllabus) [10/3/2025]
+- [ ] Chapter Four (Solve problems on it since it is mostly problems) [10/3/2025]
 
 # Chapter One (3-4 Days)
 20% --- 8 Questions --- P14-P22
