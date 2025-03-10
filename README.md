@@ -26,8 +26,8 @@
 - [x] Chapter Three (3.2.2 &rarr; end of ch + Questions on Chapter Three + Quiz) [9/3/2025]
 
 # Day Ten 
-- [ ] Chapter Four (Blackbox Testing From Syllabus) [10/3/2025]
-- [ ] Chapter Four (Problems on Blackbox Testing)   [10/3/2025]
+- [ ] Chapter Four (Blackbox Testing From Syllabus `Equivalence Partitioning` && `Boundary Value Analysis`) [10/3/2025]
+- [ ] Chapter Four (Problems on Blackbox Testing `Equivalence Partitioning` && `Boundary Value Analysis`)   [10/3/2025]
 
 # Chapter One (3-4 Days)
 20% --- 8 Questions --- P14-P22
