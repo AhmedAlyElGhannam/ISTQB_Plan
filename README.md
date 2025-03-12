@@ -30,8 +30,11 @@
 - [x] Chapter Four (Problems on Blackbox Testing `Equivalence Partitioning` && `Boundary Value Analysis`)   [10/3/2025]
 
 # Day Eleven
-- [ ] Chapter Four () [12/3/2025]
-- [ ] Chapter Four () [12/3/2025]
+- [ ] Chapter Four (Decision Table && State Transition) [12/3/2025]
+- [ ] Chapter Four (Whitebox Testing) [12/3/2025]
+
+# Day Twelve
+- [ ] Chapter Four (Rest of Chapter Four) [13/3/2025]
 
 # Chapter One (3-4 Days)
 20% --- 8 Questions --- P14-P22
