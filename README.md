@@ -34,7 +34,7 @@
 - [x] Chapter Four (Whitebox Testing) [12/3/2025]
 
 # Day Twelve
-- [ ] Chapter Four (Rest of Chapter Four) [16/3/2025]
+- [x] Chapter Four (Rest of Chapter Four) [16/3/2025]
 - [ ] Chapter Six [16/3/2025]
 
 # Chapter One (3-4 Days)
