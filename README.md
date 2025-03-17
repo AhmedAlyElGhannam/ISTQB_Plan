@@ -35,7 +35,11 @@
 
 # Day Twelve
 - [x] Chapter Four (Rest of Chapter Four) [16/3/2025]
-- [ ] Chapter Six [16/3/2025]
+- [x] Chapter Six [16/3/2025]
+- [x] Chapter Four (Questions + Quiz) [16/3/2025]
+
+# Day Thirteen
+- [ ] Chapter Five (5.1. -> ??!) [17/3/2025]
 
 # Chapter One (3-4 Days)
 20% --- 8 Questions --- P14-P22
