@@ -41,6 +41,9 @@
 # Day Thirteen
 - [x] Chapter Five (5.1. -> 5.2.1) [17/3/2025]
 
+# Day Fourteen
+- [x] Chapter Five (5.2.1. -> END OF CH5) [19/3/2025]
+
 # Chapter One (3-4 Days)
 20% --- 8 Questions --- P14-P22
 
