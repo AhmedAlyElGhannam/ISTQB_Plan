@@ -6,7 +6,7 @@ This repository contains my preparation plan for ISTQB's CTFL exam. I took this 
 3. CTFL v4.0 syllabus if you are lazy and do not want to download it from their website.
 4. Notes I took while studying. 
 
-This repo was made for me and my study partner to ease our lives but, since I have passed the exam successfully, I decided to clean it up a bit because there is a tiny chance it might help someone preparing for this exam. Good luck! :)
+This repo was made for me and my study partner---shout out to you, [Yasmeen](https://github.com/YasmeenYasser611?tab=overview&from=2025-03-01&to=2025-03-27), could not have done it without you!---to ease our lives but, since I have passed the exam successfully, I decided to clean it up a bit because there is a tiny chance it might help someone preparing for this exam. Good luck! :)
 
 ![ISTQB_CTFL_Pass](https://github.com/user-attachments/assets/c5d7557e-22eb-4c07-af1c-52e5e771fb88)
 
