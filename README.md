@@ -1,10 +1,10 @@
 # ISTQB CTFL Preparation Plan
-This repository contains my preparation plan for ISTQB's CTFL exam. I took this exam as a part of my journey in Information Technology Institute (ITI)'s Embedded Systems Training Program. You will find: \
+This repository contains my preparation plan for ISTQB's CTFL exam. I took this exam as a part of my journey in Information Technology Institute (ITI)'s Embedded Systems Training Program. You will find: 
 
 1. Timeline for studying.
 2. Sample exams with their official answers.
 3. CTFL v4.0 syllabus if you are lazy and do not want to download it from their website.
-4. Notes I took while studying. \
+4. Notes I took while studying. 
 
 This repo was made for me and my study partner to ease our lives but, since I have passed the exam successfully, I decided to clean it up a bit because there is a tiny chance it might help someone preparing for this exam. Good luck! :)
 
